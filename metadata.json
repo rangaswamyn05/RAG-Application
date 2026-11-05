@@ -1,0 +1,6 @@
+{
+  "name": "Immigration Pal - Australian Student Visa 500 Assistant",
+  "description": "AI immigration information assistant specialising in the Australian Student Visa (Subclass 500) with verified official Home Affairs RAG retrieval, document checklists, financial capacity calculator, and clickable citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
